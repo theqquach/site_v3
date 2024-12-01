@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: 'Home'
+date: 2024-10-24
 type: landing
 
 sections:
@@ -16,66 +16,36 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: background.png
           filters:
             brightness: 0.4
           size: cover
           position: center
           parallax: false
-  - block: stats
-    content:
-      items:
-        - statistic: "15"
-          description: |
-            Publications
-        - statistic: "1,000+"
-          description: |
-            Citations
-        - statistic: "78"
-          description: |
-            h-index
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: 'About me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a student at the University of British Columbia where I am currently majoring in Statistics & Economics.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        My areas of interests include:
+
+        - Financial Economics
+        - Data Science
+        - Political Economy and Public Policy
+        - Environmental Economics and Sustainability
+        - Econometrics and Quantitative Methods
+
+        I'm passionate about using a data-driven approach to explore relationships, answer questions, and provide meaningful recommendations. Although I am most experienced working with financial data, I am always excited to work with different datasets and learn about different industries and projects, as I believe in lifelong learning.
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+          is_fullscreen: true
+          padding: ['50px', '0px', '50px', '0px']
+  - block: cta-button-list
+    content:
+      buttons:
+        - text: Download CV
+          url: /uploads/resume.pdf
 ---

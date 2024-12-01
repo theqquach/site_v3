@@ -3,8 +3,29 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic CV Pro Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Thê (Alexander) Quach # Website name
+baseURL: 'https://the-quach.com/' # Website URL
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+      kind: page
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    show_breadcrumb: false
+  # Tag page options
+  - _target:
+      path: /tags/**
+    view: date-title-summary
 
 ############################
 ## LANGUAGE
@@ -23,8 +44,7 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-pagination:
-  pagerSize: 10
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -41,9 +61,9 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  author: authors
   tag: tags
-  publication_type: publication_types
+  category: categories
+  author: authors
 markup:
   _merge: deep
   highlight:
