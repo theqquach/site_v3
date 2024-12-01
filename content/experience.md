@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume-experience-work
     content:
       username: admin
     design:
@@ -18,15 +18,21 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-experience-volunteer
+    content:
+      username: admin_volunteering
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Technical Skills
       username: admin
-    design:
-      show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards & Certifications
       username: admin
   - block: resume-languages
     content:

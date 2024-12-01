@@ -1,21 +1,49 @@
 ---
 title: Uses
-date: 2023-10-24
+date: 2024-11-12
 pager: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
+## Hardware
+MacBook Air 8GB 13-inch (M2, 2022) <br>
+iPad Pro (11-inch) (3rd Generation) + Apple Pencil 2 <br>
+Apple Watch Series 5 <br>
+EPOMAKER RT100 Mechanical Keyboard (Wisteria Linear Switches) <br>
+HARPOON RGB PRO Gaming Mouse (Wired) <br>
+Anker 2.4G Wireless Vertical Mouse <br>
+Sony WH-1000XM5 Headphones <br>
+AirPods (3rd Generation) <br>
+MAONO 192kHz USB Microphone <br>
+EMEET 1080P Webcam with Microphone <br>
+### Personal Computer: <br>
+AMD Ryzen 5 3600X <br>
+ASUS GeForce GTX 1050 TI 4GB <br>
+ASRock B450M-HDV R4.0 AM4  <br>
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+## Software
+### Programming Languages
+Python <br>
+Java <br>
+R <br>
+Julia <br>
 
-## Editor + Terminal
+### Development
+Intellij <br>
+RStudio <br>
+VSCode <br>
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+### Browser & Extensions
+Arc <br>
+Google Chrome <br>
+Safari <br>
 
-## Desktop Apps
+## Accessibility
+### Utilities and Tools
+Apple Music <br>
 
-- Better Touch Tool for window management and custom keyboard shortcuts
+### Productivity
+Notion <br>
+Notion Calendar <br>
+Things 3 <br>
+Slack <br>
