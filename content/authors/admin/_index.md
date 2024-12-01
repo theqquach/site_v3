@@ -51,7 +51,7 @@ education:
     summary: |
       Currently pursuing a Master's of Management dual degree at UBC Sauder School of Business. The program includes foundational courses in business core fundamentals, covering areas like finance, marketing, and operations as well as graduate courses in project management, business development, and two-part negotiations.
 
-# Work Experience
+# Experience
 work:
   - position: Investor Relations Assistant
     company_name: Solaires Entreprises Inc.
@@ -68,7 +68,18 @@ work:
       - Supported the creation and management of company documents for the Data Room.
       - Created pitch deck presentations and new relevant slides.
       - Conducted research and studies relevant to investors' needs.
-
+  - position: Finance Team - Outreach, Sponsorships, and Grants
+    company_name: UBC Rapid Engineering Design Team
+    company_url: 'https://ubc-rapid.com/#/'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |2-
+      Responsibilities included:
+      - Presented finance updates at weekly meetings
+      - Searched for grants and wrote grant applications
+      - Researched potential sponsors and connected with them
+      - Collaborated with co-captains on refining UBC Rapid’s sponsorship package
   - position: Business Operations Analyst
     company_name: Invartis Ltd.
     company_url: 'https://invartis.com/'
@@ -85,6 +96,28 @@ work:
       - Designed a data model in preparation for an asset market analysis.
       - Identified key points in the recruitment pipeline and creating a program to streamline the hiring process.
       - Researched various asset managers and asset owners to better understand the market and improve the quality of Invartis' client pitches.
+  - position: Math Tutor
+    company_name: CUBS Vancouver
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-31
+    summary: |
+      Responsibilities included:
+      - Prepared and taught weekly lessons about math to youth in Vancouver’s DTES neighbourhood.
+      - Bonded and interacted with a diverse range of children, catering the lesson to their specific needs and interests.
+  - position: Senior Cadet
+    company_name: Royal Canadian Sea Cadet Corps 27
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-09-01
+    date_end: 2021-07-31
+    summary: |
+      Responsibilities included:
+      - Led groups of junior cadets in training drills and organizes parade nights with other senior cadets and officers. Created a welcoming environment for over 70 cadets by connecting with each cadet’s interests. 
+      - Prepared and taught weekly lessons about nautical skills, nautical history, and other militaryrelated topics by designing 	engaging activities to encourage active learning. 
+      - Organized monthly morale-building events such as sports nights or weekend training by collaborating with other senior cadets. 
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
