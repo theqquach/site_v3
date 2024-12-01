@@ -56,7 +56,7 @@ work:
   - position: Investor Relations Assistant
     company_name: Solaires Entreprises Inc.
     company_url: 'https://www.solaires.net/'
-    company_logo: ''
+    company_logo: 'custom/invartis_logo.svg'
     date_start: 2024-09-01
     date_end: ''
     summary: |2-
@@ -71,7 +71,7 @@ work:
   - position: Finance Team - Outreach, Sponsorships, and Grants
     company_name: UBC Rapid Engineering Design Team
     company_url: 'https://ubc-rapid.com/#/'
-    company_logo: ''
+    company_logo: 'custom/rapid_logo.svg'
     date_start: 2024-09-01
     date_end: ''
     summary: |2-
@@ -83,7 +83,7 @@ work:
   - position: Business Operations Analyst
     company_name: Invartis Ltd.
     company_url: 'https://invartis.com/'
-    company_logo: ''
+    company_logo: '/custom/invartis_logo.svg'
     date_start: 2024-06-13
     date_end: 2024-08-26
     summary: |
@@ -182,6 +182,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Feeding 9 Billion Case Competition - 3rd Place
+    url: ''
+    date: '2024-11-24'
+    awarder: UBC Land and Food Systems Undergraduate Society
+    icon: ''
+    summary: |
+      Placed third place in the 'Feeding 9 Billion' case competition hosted by LFSUS, a case competition that aims to find creative solutions to fight food insecurity. My multidisciplinary team of 4 decided to go with an income-supplementation program and presented our proposal to a panel of professors with various backgrounds. 
   - title: Asset Management Level 3
     url: https://www.intuition.com/
     date: '2024-08-01'
