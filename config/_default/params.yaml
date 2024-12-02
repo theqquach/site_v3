@@ -43,6 +43,7 @@ footer:
       share_alike: true
       allow_commercial: false
   show_translations: true
+  i_am_a_sponsor: true
 
 # Localization
 locale:
