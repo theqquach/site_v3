@@ -87,7 +87,7 @@ I enjoyed this class as it covered a wide range of topics, with relatively strai
 I went into this class fearing reading and writing about literature at a college level, however, I was pleasantly surprised and thoroughly enjoyed the class. I had Miranda Burgess for this class and I highly recommend taking a class with her. My TA, Thea Skeide, was also very supportive throughout the course. We read the following books, which I would recommend
 - Belovcd
 - The Marrow Theives
-- Frankenstien
+- Frankenstein
 - The Best We Could Do
 
 ### DSCI 100 Introduction to Data Science

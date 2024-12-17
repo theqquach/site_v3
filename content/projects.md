@@ -27,5 +27,21 @@ sections:
           description: A music library application built using Java.
           image: javaprojecticon.png
           url: https://github.com/theqquach/SmartMuseMusicLibraryProject
+        - title: Income Prediction Project
+          description: Investigating how time, age/experience, are assoicated with income. We trained a logistic regression model to predict income based on age, education level, hours per week, and marital-status. 
+          image: income_icon.png
+          url: https://github.com/theqquach/income-prediction-project
+        - title: Sleep Efficiency Project
+          description: Identifying factors that affect sleep quality using linear modeling. 
+          image: sleep_icon.jpg
+          url: https://github.com/theqquach/sleep-efficiency-project
+        - title: Credit Card Default Project
+          description: We used statistical inference to determine if default payments are more prevalent for those with lower education. 
+          image: credit_card_icons.png
+          url: https://github.com/theqquach/stat201-project
+        - title: Heart Disease Prediction
+          description: Building a classification model to predict resting ECG, and Angiographic disease status.
+          image: heart_icon.png
+          url: https://github.com/theqquach/dsci100-project/
 ---
 ---
